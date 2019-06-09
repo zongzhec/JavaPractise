@@ -1,7 +1,5 @@
 package foo.zongzhe.prac.multi_thread;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 public class ThreadPrinterDemo implements Runnable {
 
 	private String name;
