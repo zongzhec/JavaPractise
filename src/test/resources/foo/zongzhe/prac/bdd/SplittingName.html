@@ -1,22 +1,52 @@
 <html xmlns:concordion="http://www.concordion.org/2007/concordion">
 <head>
-	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
-	<link href="../../concordion.css" rel="stylesheet" type="text/css" />
+<title></title>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<link href="../../concordion.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-<h1>Splitting Names</h1>
+	<h1>Splitting Names</h1>
 
-<p>To help personalise our mailshots we want to have the first name and last name of the customer. Unfortunately the customer data that we are supplied only contains full names.</p>
+	<p>To help personalise our mailshots we want to have the first name
+		and last name of the customer. Unfortunately the customer data that we
+		are supplied only contains full names.</p>
 
-<p>The system therefore attempts to break a supplied full name into its constituents by splitting around whiltespace.</p>
+	<p>The system therefore attempts to break a supplied full name into
+		its constituents by splitting around whiltespace.</p>
 
-<div concordion:example="basic">
-<h3>Example</h3>
+	<div concordion:example="basic">
+		<h3>Example 1</h3>
 
-<p>The full name <span concordion:set="#name">Jane Smith</span> 
-	will be <span concordion:execute="#result = split(#name)">broken</span> 
-	into first name <span concordion:assert-equals="#result.firstName">Jane</span> and last name <span concordion:assert-equals="#result.lastName">Smith</span>.
-	</p>
-</div>
+		<p>
+			The full name <span concordion:set="#name">Jane Smith</span> will be
+			<span concordion:execute="#result = split(#name)">broken</span> into
+			first name <span concordion:assert-equals="#result.firstName">Jane</span>
+			and last name <span concordion:assert-equals="#result.lastName">Smith</span>.
+		</p>
+	</div>
+
+	<div concordion:example="simple-names">
+		<h3>Example 2</h3>
+
+		<table concordion:execute="#result = split(#fullName)">
+			<tbody>
+				<tr>
+					<th concordion:set="#fullName">Full Name</th>
+					<th concordion:assert-equals="#result.firstName">First Name</th>
+					<th concordion:assert-equals="#result.lastName">Last Name</th>
+				</tr>
+				<tr concordion:execute="#result = split(#fullName)">
+					<td concordion:set="#fullName">John Smith</td>
+					<td concordion:assert-equals="#result.firstName">John</td>
+					<td concordion:assert-equals="#result.lastName">Smith</td>
+				</tr>
+				<tr concordion:execute="#result = split(#fullName)">
+					<td concordion:set="#fullName">David Peterson</td>
+					<td concordion:assert-equals="#result.firstName">David</td>
+					<td concordion:assert-equals="#result.lastName">Peterson</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
 </body>
 </html>
