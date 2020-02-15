@@ -2,6 +2,6 @@
 /.gradle/
 /build/
 *.class
-.idea/workspace.xml
-.idea/workspace.xml
 *.kotlin_module
+.idea/*
+.class/*
