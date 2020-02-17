@@ -29,7 +29,8 @@ public class MainEntry {
         printArray(initialArray, "numbers before sorting");
 
 //        BubbleSort sortApproach = new BubbleSort();
-        QuickSort sortApproach = new QuickSort();
+//        QuickSort sortApproach = new QuickSort();
+        SelectionSort sortApproach = new SelectionSort();
         int[] sortedNums = sortApproach.sort(initialArray);
         printArray(sortedNums, "numbers after bubble sorting");
         System.out.println();
