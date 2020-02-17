@@ -28,8 +28,9 @@ public class MainEntry {
     public static void testSorting(int[] initialArray, String desc) {
         printArray(initialArray, "numbers before sorting");
 
-        BubbleSort sortApproach = new BubbleSort();
-        int[] sortedNums = sortApproach.bubbleSort(initialArray);
+//        BubbleSort sortApproach = new BubbleSort();
+        QuickSort sortApproach = new QuickSort();
+        int[] sortedNums = sortApproach.sort(initialArray);
         printArray(sortedNums, "numbers after bubble sorting");
         System.out.println();
     }

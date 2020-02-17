@@ -2,7 +2,7 @@ package zongzhe.javaprac.sorting;
 
 public class BubbleSort {
 
-    public int[] bubbleSort(int[] inputArray) {
+    public int[] sort(int[] inputArray) {
         System.out.println("Using bubble sorting!");
         for (int i = 0; i < inputArray.length - 1; i++) {
             for (int j = i + 1; j < inputArray.length; j++) {
