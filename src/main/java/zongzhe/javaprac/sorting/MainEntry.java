@@ -30,7 +30,8 @@ public class MainEntry {
 
 //        BubbleSort sortApproach = new BubbleSort();
 //        QuickSort sortApproach = new QuickSort();
-        SelectionSort sortApproach = new SelectionSort();
+//        SelectionSort sortApproach = new SelectionSort();
+        InsertionSort sortApproach = new InsertionSort();
         int[] sortedNums = sortApproach.sort(initialArray);
         printArray(sortedNums, "numbers after bubble sorting");
         System.out.println();
