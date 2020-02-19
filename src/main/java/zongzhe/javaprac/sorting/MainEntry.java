@@ -32,7 +32,8 @@ public class MainEntry {
 //        QuickSort sortApproach = new QuickSort();
 //        SelectionSort sortApproach = new SelectionSort();
 //        InsertionSort sortApproach = new InsertionSort();
-        ShellSort sortApproach = new ShellSort();
+//        ShellSort sortApproach = new ShellSort();
+        MergeSort sortApproach = new MergeSort();
         int[] sortedNums = sortApproach.sort(initialArray);
         printArray(sortedNums, "numbers after bubble sorting");
         System.out.println();
