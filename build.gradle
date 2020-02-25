@@ -14,8 +14,10 @@ apply plugin: 'java-library'
 repositories {
     // Use jcenter for resolving your dependencies.
     // You can declare any Maven/Ivy/file repository here.
+    maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+    mavenLocal()
     jcenter()
-    mavenCentral()
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
@@ -24,16 +26,17 @@ dependencies {
 
     // This dependency is used internally, and not exposed to consumers on their own compile classpath.
     implementation 'com.google.guava:guava:21.0'
+    implementation group: 'zongzhe', name: 'zongzhe-utils', version: '1.0'
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
-    
+
     testCompile "org.concordion:concordion:2.2.0"
 }
 
-test{
-	testLogging.showStandardStreams = true // display test output on concole
-	systemProperties['concordion.output.dir'] = "$reporting.baseDir/spec" // write output to build/reports/spec
-	outputs.upToDateWhen { false }   // force tests to run even if code hasn't changed
+test {
+    testLogging.showStandardStreams = true // display test output on concole
+    systemProperties['concordion.output.dir'] = "$reporting.baseDir/spec" // write output to build/reports/spec
+    outputs.upToDateWhen { false }   // force tests to run even if code hasn't changed
 }
 
