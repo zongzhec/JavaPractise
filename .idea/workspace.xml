@@ -3,70 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19898c34-3586-439b-acde-16ce7723068b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/design_pattern/Cycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/design_pattern/FactoryPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/design_pattern/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/design_pattern/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/design_pattern/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/design_pattern/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/multi_thread/CallableThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/multi_thread/RunnableDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/multi_thread/RunnableDemoStart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/multi_thread/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/multi_thread/ThreadDemoStart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/multi_thread/ThreadPrinterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/tree/TireTree$TireTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/tree/TireTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/tree/TireTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/foo/zongzhe/prac/tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/JavaPractise.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/JavaPractise.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/common/constants/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/AbstractFactoryPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Blue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/ColorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/FactoryProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Green.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Red.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/design_pattern/abstract_fact/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/design_pattern/Cycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/design_pattern/FactoryPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/design_pattern/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/design_pattern/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/design_pattern/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/design_pattern/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/multi_thread/CallableThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/multi_thread/RunnableDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/multi_thread/RunnableDemoStart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/multi_thread/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/multi_thread/ThreadDemoStart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/multi_thread/ThreadPrinterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/KeyNotFound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/StartingPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/TireTree$TireTreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/TireTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/TireTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/foo/zongzhe/prac/tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/java8/LambdaPrac$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/production/JavaPractise/java8/LambdaPrac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/MainEntry.java" beforeDir="false" />
@@ -133,17 +69,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="205">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            <state relative-caret-position="540">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -152,12 +88,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/SortDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="401">
+              <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#208#238#0" expanded="true" />
                 <element signature="e#1806#1807#0" expanded="true" />
                 <element signature="e#1837#1838#0" expanded="true" />
               </folding>
@@ -207,13 +153,13 @@
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/LinkedTreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeNode.java" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeDemo.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -293,14 +239,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bdd" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -332,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.JavaPractise [buildDependents]">
+  <component name="RunManager" selected="Application.TreeDemo">
     <configuration name="TreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.javaprac.datastructure.TreeDemo" />
       <module name="JavaPractise" />
@@ -420,10 +358,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeDemo" />
         <item itemvalue="JUnit.SplittingNameFixture" />
         <item itemvalue="Gradle.JavaPractise [classes]" />
         <item itemvalue="Gradle.JavaPractise [clean]" />
-        <item itemvalue="Application.TreeDemo" />
         <item itemvalue="Gradle.JavaPractise [buildDependents]" />
       </list>
     </recent_temporary>
@@ -448,9 +386,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24360341" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24360341" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -460,7 +397,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43600866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -633,13 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/SortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/LinkedTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -668,25 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1806#1807#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,10 +630,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="540">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/SortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="99" column="20" selection-start-line="99" selection-start-column="20" selection-end-line="99" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#238#0" expanded="true" />
+            <element signature="e#1806#1807#0" expanded="true" />
+            <element signature="e#1837#1838#0" expanded="true" />
           </folding>
         </state>
       </provider>

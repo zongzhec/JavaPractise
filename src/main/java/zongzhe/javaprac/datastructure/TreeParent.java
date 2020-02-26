@@ -8,6 +8,7 @@ import java.util.List;
  * This approach is to point out parent node
  * Article: https://www.cnblogs.com/Dylansuns/p/6791270.html
  */
+@SuppressWarnings("unchecked")
 public class TreeParent<E> {
 
     public static class Node<T> {
@@ -92,7 +93,7 @@ public class TreeParent<E> {
     public int getDepth() {
         // get the max depth of different ndoes
         int max = 0;
-        for (int i = 0; i < treeSize; i++) {
+        for (int i = 1; i < treeSize; i++) {
             // initial current node depth
             int curDepth = 1;
             int m = nodes[i].parent;
