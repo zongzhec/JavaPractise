@@ -1,4 +1,4 @@
-package zongzhe.javaprac.sorting;
+package zongzhe.algorism.sorting;
 
 public class SortDemo {
 

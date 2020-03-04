@@ -1,4 +1,4 @@
-package zongzhe.javaprac.multithread;
+package zongzhe.java_basic.multithread;
 
 public class ThreadDemo extends Thread {
 

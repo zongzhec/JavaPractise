@@ -1,4 +1,4 @@
-package zongzhe.javaprac.sorting;
+package zongzhe.algorism.sorting;
 
 /**
  * Divide and conquer

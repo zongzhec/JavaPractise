@@ -1,4 +1,4 @@
-package zongzhe.javaprac.datastructure;
+package zongzhe.java_basic.datastructure;
 
 
 import java.util.List;

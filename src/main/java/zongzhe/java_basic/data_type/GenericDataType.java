@@ -1,4 +1,4 @@
-package zongzhe.javaprac.data_type;
+package zongzhe.java_basic.data_type;
 
 /**
  * @author Zongzhe

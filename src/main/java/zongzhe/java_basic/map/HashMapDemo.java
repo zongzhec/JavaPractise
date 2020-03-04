@@ -1,7 +1,6 @@
-package zongzhe.javaprac.map;
+package zongzhe.java_basic.map;
 
 import java.util.HashMap;
-import java.util.Set;
 
 public class HashMapDemo {
 
