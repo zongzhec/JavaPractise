@@ -40,3 +40,8 @@ test {
 //    outputs.upToDateWhen { false }   // force tests to run even if code hasn't changed
 }
 
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+

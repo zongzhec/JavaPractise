@@ -50,5 +50,19 @@ public class VariableTypeConvertDemo {
         int intSum4 = byteNum + byteNum2;
         System.out.println(intSum4);
 
+        // For integer constants, default is int
+        // short shortNum3 = shortNum + 2; // Fail to compile: 不兼容的类型: 从int转换到short可能会有损失
+        int intSum5 = shortNum + 2;
+        System.out.println(intSum5);
+
+        // For float constants, default is double
+        //float floatSum = floatNum + 2.1; // Fail to compile: 不兼容的类型: 从double转换到float可能会有损失
+        double doubleSum = floatNum + 2.1;
+        System.out.println(doubleSum);
+
+        // Auto promote
+        long longNum1 = 1234L;
+        long longNum2 = 1234; // 1234 is int, and then auto converted to long.
+        // long longNum3 = 35431351351365; // Fail to compile: 过大的整数: 35431351351365
     }
 }
