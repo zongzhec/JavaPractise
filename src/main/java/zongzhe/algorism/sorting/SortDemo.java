@@ -21,7 +21,7 @@ public class SortDemo {
         testSorting(oddNumbers, "oddNumbers");
 
         // Test even numbers
-        int[] evenNumbers = {7, 6, 9, 8, 5,1};
+        int[] evenNumbers = {7, 6, 9, 8, 5, 1};
         testSorting(evenNumbers, "evenNumbers");
     }
 
