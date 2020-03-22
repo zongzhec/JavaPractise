@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19898c34-3586-439b-acde-16ce7723068b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/TemplateDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/FinalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/FinalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/NativeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/NativeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/StaticDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/AbstractFactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Blue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/ColorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/FactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Green.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Red.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -79,18 +90,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="342">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
                 <element signature="e#585#586#0" expanded="true" />
                 <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#1143#1144#0" expanded="true" />
+                <element signature="e#1281#1282#0" expanded="true" />
                 <element signature="e#920#921#0" expanded="true" />
                 <element signature="e#944#945#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/TemplateDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -120,9 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/java8/LambdaPrac.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/multithread/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/multithread/RunnableDemo2.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/multithread/RunnableDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/review/RunnableDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/map/HashMapDemo.java" />
@@ -171,6 +188,9 @@
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/NativeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/NativeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/TemplateDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/TemplateDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/TemplateDemo.java" />
       </list>
     </option>
   </component>
@@ -243,57 +263,6 @@
               <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
-              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
-              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
-              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="modifier" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
-              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="object" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
-              <item name="variable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,7 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractDemo">
+  <component name="RunManager" selected="Application.TemplateDemo">
     <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.modifier.AbstractDemo" />
       <module name="JavaPractise" />
@@ -377,19 +346,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.object.ObjectDemo" />
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.oop.modifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.modifier.StaticDemo" />
       <module name="JavaPractise" />
@@ -403,13 +359,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemplateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.design_pattern.TemplateDemo" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zongzhe.design_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplateDemo" />
         <item itemvalue="Application.AbstractDemo" />
         <item itemvalue="Application.StaticDemo" />
         <item itemvalue="Application.NonStaticBlockPrac" />
         <item itemvalue="Application.NonStaticBlockDemo" />
-        <item itemvalue="Application.ObjectDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +404,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -445,7 +414,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.22668113" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.22668113" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43600866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,13 +472,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -901,15 +863,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="342">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding>
             <element signature="e#585#586#0" expanded="true" />
             <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
             <element signature="e#920#921#0" expanded="true" />
             <element signature="e#944#945#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/TemplateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>

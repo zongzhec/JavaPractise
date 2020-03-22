@@ -1,4 +1,4 @@
-package design_pattern.abstract_fact;
+package zongzhe.design_pattern.abstract_fact;
 
 public class Green implements Color {
 

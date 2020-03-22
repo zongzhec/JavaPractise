@@ -18,6 +18,11 @@ import javax.sound.midi.Soundbank;
  * 抽象类就是用来被继承的，且子类必须实现抽象类的所有抽象方法。
  * 抽象类的变量可以与子类的对象构成多态引用，执行子类重写的方法。
  * 抽象类可以和普通类一样，拥有属性、构造器、代码块、非抽象类的方法邓程元，这些给子类用。
+ *
+ * 注意点：
+ * private和abstract不能同时修饰方法。
+ * private和abstract可以同时修饰成员和内部类。
+ * static和abstract不能同时修饰方法，因为static的方法不能被重写，其直接用“类名.”调用，没有方法体执行。
  */
 public class AbstractDemo {
     public static void main(String[] args) {
