@@ -1,4 +1,4 @@
-package zongzhe.java_basic.oop.object;
+package zongzhe.java_basic.oop.modifier;
 
 
 /**
