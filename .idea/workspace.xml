@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19898c34-3586-439b-acde-16ce7723068b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/DefineAndUseInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/DefineAndUseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -69,11 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="270">
+              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding>
                 <element signature="e#855#856#0" expanded="true" />
                 <element signature="e#891#892#0" expanded="true" />
@@ -105,10 +105,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/DefineAndUseInterface.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="270">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="e#716#717#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#1074#1075#0" expanded="true" />
+                <element signature="e#1272#1273#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,9 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/sorting/MainEntry.java" />
@@ -188,7 +206,10 @@
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/InterfaceDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/MyArrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/DefineAndUseInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo3.java" />
       </list>
     </option>
   </component>
@@ -282,6 +303,30 @@
               <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
+              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfaceDemo2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
+              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="InterfaceDemo3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,7 +370,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InterfaceDemo">
+  <component name="RunManager" selected="Application.InterfaceDemo3">
     <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.modifier.AbstractDemo" />
       <module name="JavaPractise" />
@@ -352,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonStaticBlockPrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.object.NonStaticBlockPrac" />
+    <configuration name="InterfaceDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.interfaces.InterfaceDemo2" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.oop.modifier.*" />
+          <option name="PATTERN" value="zongzhe.java_basic.oop.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,12 +410,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.modifier.StaticDemo" />
+    <configuration name="InterfaceDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.interfaces.InterfaceDemo3" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.oop.modifier.*" />
+          <option name="PATTERN" value="zongzhe.java_basic.oop.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,11 +438,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceDemo3" />
+        <item itemvalue="Application.InterfaceDemo2" />
         <item itemvalue="Application.InterfaceDemo" />
         <item itemvalue="Application.TemplateDemo" />
         <item itemvalue="Application.AbstractDemo" />
-        <item itemvalue="Application.StaticDemo" />
-        <item itemvalue="Application.NonStaticBlockPrac" />
       </list>
     </recent_temporary>
   </component>
@@ -421,9 +466,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -433,7 +477,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.22668113" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.22668113" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43600866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,16 +535,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/review/RunnableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/algorism/sorting/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -870,13 +904,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/DefineAndUseInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -897,13 +924,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="270">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           <folding>
             <element signature="e#855#856#0" expanded="true" />
             <element signature="e#891#892#0" expanded="true" />
             <element signature="e#1052#1053#0" expanded="true" />
             <element signature="e#1104#1105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/interfaces/InterfaceDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
           </folding>
         </state>
       </provider>
