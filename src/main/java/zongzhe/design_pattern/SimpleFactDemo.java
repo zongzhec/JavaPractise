@@ -1,4 +1,4 @@
-package zongzhe.design_pattern.simple_factory;
+package zongzhe.design_pattern;
 
 public class SimpleFactDemo {
     public static void main(String[] args) {
