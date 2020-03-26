@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19898c34-3586-439b-acde-16ce7723068b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/StaticInnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/NonStaticInnerClassDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/AbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/AbstractFactoryPatternDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Blue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/ColorFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/FactoryProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Green.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Red.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/Square.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -83,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/SimpleFactDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="630">
               <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
             </state>
           </provider>
@@ -92,23 +79,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/ProxyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="666">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
+                <element signature="e#386#387#0" expanded="true" />
                 <element signature="e#428#429#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/StaticInnerClassDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/NonStaticInnerClassDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
               <folding>
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,12 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/FactoryDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="360">
               <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-              <folding>
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -152,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeNode.java" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/javaprac/datastructure/TreeParent.java" />
@@ -203,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/FactoryDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/ProxyDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/StaticInnerClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/NonStaticInnerClassDemo.java" />
       </list>
     </option>
   </component>
@@ -349,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticInnerClassDemo">
+  <component name="RunManager" selected="Application.NonStaticInnerClassDemo">
     <configuration name="FactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.design_pattern.FactoryDemo" />
       <module name="JavaPractise" />
@@ -363,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.interfaces.InterfaceDemo3" />
+    <configuration name="NonStaticInnerClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.oop.inner_class.NonStaticInnerClassDemo" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.oop.interfaces.*" />
+          <option name="PATTERN" value="zongzhe.java_basic.oop.inner_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,11 +410,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NonStaticInnerClassDemo" />
         <item itemvalue="Application.StaticInnerClassDemo" />
         <item itemvalue="Application.ProxyDemo" />
         <item itemvalue="Application.FactoryDemo" />
         <item itemvalue="Application.SimpleFactDemo" />
-        <item itemvalue="Application.InterfaceDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -445,8 +438,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23880596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24147122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -456,7 +450,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.22668113" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.22668113" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43600866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,13 +508,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/data_structure/LinkedTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -889,24 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/FactoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding>
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/SimpleFactDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/TemplateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
@@ -914,30 +883,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/abstract_fact/AbstractFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/SimpleFactDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="630">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/ProxyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="666">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
+            <element signature="e#386#387#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/FactoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/StaticInnerClassDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/inner_class/NonStaticInnerClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
           </folding>
         </state>
       </provider>
