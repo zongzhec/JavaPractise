@@ -5,10 +5,11 @@ public class EnumDemo {
 //        Week w = new Week(); // Error: 构造器是私有的
         Week weekday = Week.FRIDAY;
         System.out.println(weekday);
+        System.out.println(weekday.ordinal());
 
         switch (weekday){
             case FRIDAY:
-                System.out.println("switch Friday");
+                System.out.println(weekday.name());
                 break;
             default:
                 System.out.println("default");
