@@ -1,4 +1,4 @@
-package zongzhe.java_basic.data_type;
+package zongzhe.java_basic.data_type.string;
 
 public class StringDemo {
 
