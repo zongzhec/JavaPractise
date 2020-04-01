@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19898c34-3586-439b-acde-16ce7723068b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeZoneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeGapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/DateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/DateDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -80,11 +79,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeZoneDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+            <state relative-caret-position="372">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeGapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/data_type/StringDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/algorism/sorting/QuickSort2.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/algorism/sorting/SortDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/OOPDemo.java" />
@@ -184,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/data_type/string/StringBufferDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/DateDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeZoneDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeGapDemo.java" />
       </list>
     </option>
   </component>
@@ -299,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TimeZoneDemo">
+  <component name="RunManager" selected="Application.TimeGapDemo">
     <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.date_time.DateDemo" />
       <module name="JavaPractise" />
@@ -313,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.exception.ExceptionDemo" />
+    <configuration name="StringBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.data_type.string.StringBufferDemo" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.exception.*" />
+          <option name="PATTERN" value="zongzhe.java_basic.data_type.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.data_type.string.StringBufferDemo" />
+    <configuration name="TimeGapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.date_time.TimeGapDemo" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.data_type.string.*" />
+          <option name="PATTERN" value="zongzhe.java_basic.date_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimeGapDemo" />
         <item itemvalue="Application.TimeZoneDemo" />
         <item itemvalue="Application.DateDemo" />
         <item itemvalue="Application.StringBufferDemo" />
         <item itemvalue="Application.TryCatchDemo" />
-        <item itemvalue="Application.ExceptionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -465,13 +476,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/algorism/sorting/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/algorism/sorting/QuickSort2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/data_type/DataTypeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -924,8 +928,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeZoneDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+        <state relative-caret-position="372">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/date_time/TimeGapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
