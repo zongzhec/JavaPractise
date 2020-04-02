@@ -57,7 +57,7 @@ public class DateDemo {
         System.out.println("SimpleDateFormat.format: " + strFromDate); // 2020-03-31 17:23:09.810
     }
 
-    public static void dateGThree() throws ParseException {
+    public static void dateGThree(){
         // LocalDate
         LocalDate localDateToday = LocalDate.now();
         System.out.println("LocalDate: " + localDateToday); // 2020-04-01
