@@ -1,9 +1,8 @@
-package zongzhe.java_basic.data_structure;
+package zongzhe.java_basic.data_structure.custom;
 
-public class CustomArrayListDemo {
-
+public class CustomSingleListDemo {
     public static void main(String[] args) {
-        MyArrayList myList = new MyArrayList();
+        MySingleList myList = new MySingleList();
 
         // 增：自定义容器必须可以添加元素
         myList.add("Zongzhe");
@@ -22,13 +21,13 @@ public class CustomArrayListDemo {
             System.out.println("element: " + obj);
         }
 
-        // 查：必须可以返回指定位置的元素
-        System.out.println("get(1): " + myList.get(1));
-
-        // 改：自定义容器必须可以修改元素
-        myList.set("Czz", "Czzzz");
-
-        // 需要可以查找obj在当前容器中的索引，如果没有，返回-1
-        System.out.println("indexOf(): " + myList.indexOf("Czz"));
+//        // 查：必须可以返回指定位置的元素
+//        System.out.println("get(1): " + myList.get(1));
+//
+//        // 改：自定义容器必须可以修改元素
+//        myList.set("Czz", "Czzzz");
+//
+//        // 需要可以查找obj在当前容器中的索引，如果没有，返回-1
+//        System.out.println("indexOf(): " + myList.indexOf("Czz"));
     }
 }

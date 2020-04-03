@@ -1,4 +1,4 @@
-package zongzhe.java_basic.data_structure;
+package zongzhe.java_basic.data_structure.custom;
 
 import java.util.Arrays;
 
