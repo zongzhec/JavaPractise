@@ -2,6 +2,7 @@ package zongzhe.java_basic.data_structure.map;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Properties;
 import java.util.Set;
 
 public class MapDemo {
@@ -10,6 +11,17 @@ public class MapDemo {
         checkDelFunc(); // 删
         checkQueryFunc(); // 查
         checkSetFunc(); // 改
+
+        checkProperties(); // 查看Properties相关方法
+    }
+
+    private static void checkProperties() {
+        // 获取系统属性
+        Properties properties = System.getProperties();
+        Set entrySet = properties.entrySet();
+        for (Object propertyEntry : entrySet) {
+            System.out.println("property: " + propertyEntry);
+        }
     }
 
     private static void checkAddFunc() {
