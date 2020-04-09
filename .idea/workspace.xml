@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19898c34-3586-439b-acde-16ce7723068b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TortoiseHareRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -70,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="252">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#515#516#0" expanded="true" />
                 <element signature="e#548#549#0" expanded="true" />
@@ -81,10 +82,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TortoiseHareRace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            <state relative-caret-position="216">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="e#225#226#0" expanded="true" />
                 <element signature="e#257#258#0" expanded="true" />
@@ -120,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/StaticDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/FinalDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/NativeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/NativeDemo.java" />
@@ -169,8 +182,9 @@
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/data_structure/collection/SetDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/data_structure/map/MapDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/data_structure/generics/GenericDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TortoiseHareRace.java" />
       </list>
     </option>
   </component>
@@ -286,20 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunnableDemo">
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.data_structure.collection.ListDemo" />
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.data_structure.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TortoiseHareRace">
     <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.data_structure.map.MapDemo" />
       <module name="JavaPractise" />
@@ -352,13 +353,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TortoiseHareRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.multithread.TortoiseHareRace" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zongzhe.java_basic.multithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunnableDemo" />
+        <item itemvalue="Application.TortoiseHareRace" />
         <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.RunnableDemo" />
         <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.SetDemo" />
-        <item itemvalue="Application.ListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -452,13 +466,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/NativeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/StaticDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -906,10 +913,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="252">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="e#515#516#0" expanded="true" />
             <element signature="e#548#549#0" expanded="true" />
@@ -917,13 +935,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TortoiseHareRace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="266">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
           </folding>
         </state>
       </provider>
