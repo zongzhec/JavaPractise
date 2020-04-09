@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19898c34-3586-439b-acde-16ce7723068b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TortoiseHareRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorExtThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorImplRunnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -81,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TortoiseHareRace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
@@ -90,6 +90,28 @@
                 <element signature="e#900#901#0" expanded="true" />
                 <element signature="e#930#931#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorExtThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="e#1496#1497#0" expanded="true" />
+                <element signature="e#1570#1571#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorImplRunnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -134,11 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/FinalDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/object/NativeDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/NativeDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/abstract_fact/TemplateDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_pattern/TemplateDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/design_pattern/TemplateDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/InterfaceDemo.java" />
@@ -185,6 +202,11 @@
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/RunnableDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/ThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TortoiseHareRace.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorExtThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorImplRunnable.java" />
       </list>
     </option>
   </component>
@@ -257,6 +279,17 @@
               <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zongzhe" type="462c0819:PsiDirectoryNode" />
+              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="multithread" type="462c0819:PsiDirectoryNode" />
+              <item name="TicketSimulatorImplRunnable.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractise" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,7 +309,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.28390804" />
@@ -286,6 +319,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="zongzhe.algorism.sorting" />
       <recent name="zongzhe.javaprac.multithread" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\personmalWorkspace\gitWorkSpace\JavaPractise\src\main\java\zongzhe\java_basic\multithread" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,20 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TortoiseHareRace">
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.data_structure.map.MapDemo" />
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.data_structure.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TicketSimulatorImplRunnable">
     <configuration name="RunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.multithread.RunnableDemo" />
       <module name="JavaPractise" />
@@ -327,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.data_structure.collection.SetDemo" />
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.multithread.ThreadDemo" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zongzhe.java_basic.data_structure.collection.*" />
+          <option name="PATTERN" value="zongzhe.java_basic.multithread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,8 +363,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.multithread.ThreadDemo" />
+    <configuration name="TicketSimulatorExtThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.multithread.TicketSimulatorExtThread" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zongzhe.java_basic.multithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketSimulatorImplRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zongzhe.java_basic.multithread.TicketSimulatorImplRunnable" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -368,11 +404,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicketSimulatorImplRunnable" />
+        <item itemvalue="Application.TicketSimulatorExtThread" />
         <item itemvalue="Application.TortoiseHareRace" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.RunnableDemo" />
-        <item itemvalue="Application.MapDemo" />
-        <item itemvalue="Application.SetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +434,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24626866" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24626866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -408,7 +444,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.34164858" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.34164858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43600866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,20 +502,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/StaticDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/polymorphism/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/oop/modifier/AbstractDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -943,6 +965,24 @@
             <element signature="e#900#901#0" expanded="true" />
             <element signature="e#930#931#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorExtThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#1496#1497#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zongzhe/java_basic/multithread/TicketSimulatorImplRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
