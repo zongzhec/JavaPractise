@@ -1,42 +1,32 @@
 package zongzhe.java_basic.multithread;
 
-public class ThreadDemo extends Thread {
+public class ThreadDemo {
 
-    private Thread t;
-    private String threadName;
+    public static void main(String args[]) {
+        MyThread thread1 = new MyThread("thread 1");
+//       thread1.run(); // 不能手动调用run()，它不是程序员调用的，线程调度器会自动调用。
+        thread1.start();
 
-    ThreadDemo(String name) {
-        this.threadName = name;
-        System.out.println("Crating thread: " + threadName);
+        MyThread thread2 = new MyThread("thread 2");
+        thread2.start();
+
     }
 
+}
+
+class MyThread extends Thread {
+    private String name;
+
+    public MyThread(String name) {
+        this.name = name;
+    }
+
+    // 重写run方法
+    @Override
     public void run() {
-        System.out.println("Running thread: " + threadName);
-        try {
-            for (int i = 0; i < 5; i++) {
-                System.out.println("Running thread for " + threadName + "-" + i);
-                Thread.sleep(50);
-            }
-        } catch (InterruptedException e) {
-            System.out.println(threadName + "  is interruptted");
-        } finally {
-//            Thread.
+        for (int i = 2; i <= 100; i += 2) {
+            System.out.println(name + " - 偶数：" + i);
         }
 
     }
-
-    public void start() {
-        System.out.println("Starting " + threadName);
-        t = new Thread(this, threadName);
-        t.start();
-    }
-
-    public static void main(String args[]) {
-        ThreadDemo td1 = new ThreadDemo("Thread1");
-        ThreadDemo td2 = new ThreadDemo("Thread2");
-        td2.start();
-        td1.start();
-    }
-
-
 }
