@@ -72,7 +72,7 @@ class WorkBench {
     private int num; // 工作台上菜的数量
 
     public synchronized void take() {
-        if (num <= 0) {
+        while (num <= 0) {
             try {
                 this.wait();
             } catch (InterruptedException e) {
@@ -81,11 +81,11 @@ class WorkBench {
         }
         num--;
         System.out.println("服务员取菜，剩余：" + num);
-        this.notify(); // 通知在wait的线程，从阻塞状态回到就绪状态
+        this.notifyAll(); // 通知在wait的线程，从阻塞状态回到就绪状态，但是注意不一定会唤醒“厨师”线程
     }
 
     public synchronized void put() {
-        if (num >= MAX_VALUE) {
+        while (num >= MAX_VALUE) {
             try {
                 this.wait();
             } catch (InterruptedException e) {
@@ -94,6 +94,6 @@ class WorkBench {
         }
         num++;
         System.out.println("厨师做好了菜，剩余：" + num);
-        this.notify();
+        this.notifyAll();
     }
 }
