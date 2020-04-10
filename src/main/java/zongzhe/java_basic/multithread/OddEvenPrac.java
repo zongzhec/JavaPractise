@@ -25,7 +25,6 @@ class NumPrinter {
 
     public static void count(String name) {
         synchronized (lock) {
-//            System.out.println("current count is " + name);
             if ((name.equals("odd") && i % 2 == 0) || (name.equals("even") && i % 2 != 0)) {
                 try {
                     lock.notify();
@@ -60,25 +59,6 @@ class OddPriter extends Thread {
                 e.printStackTrace();
             }
         }
-//        while (np.getI() < 100) {
-//            if (np.getI() % 2 != 0) {
-//                System.out.println("counting odd");
-//                try {
-//                    Thread.sleep(500);
-//                } catch (InterruptedException e) {
-//                    e.printStackTrace();
-//                }
-//                np.count();
-//                this.notifyAll();
-//            } else {
-//                try {
-//                    this.wait();
-//                } catch (InterruptedException e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        }
-
     }
 }
 
@@ -102,23 +82,5 @@ class EvenPrinter extends Thread {
                 e.printStackTrace();
             }
         }
-//        while (np.getI() < 100) {
-//            if (np.getI() % 2 == 0) {
-//                System.out.println("counting even");
-//                np.count();
-//                try {
-//                    Thread.sleep(500);
-//                } catch (InterruptedException e) {
-//                    e.printStackTrace();
-//                }
-//                this.notifyAll();
-//            } else {
-//                try {
-//                    this.wait();
-//                } catch (InterruptedException e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        }
     }
 }

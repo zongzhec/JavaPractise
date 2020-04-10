@@ -7,7 +7,7 @@ package zongzhe.java_basic.multithread;
  * 乌龟速度美妙1米，每跑完10米休眠1秒
  * 要求等兔子和乌龟的线程都结束，主线程（裁判）才能公布最后结果
  */
-public class TortoiseHareRace {
+public class TortoiseHareRacePrac {
 
     static Racer hare;
     static Racer tortoise;

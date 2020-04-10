@@ -1,17 +1,9 @@
-# JavaPractise
 
 本项目适合Java初级和中级学者探索一些基本、常用的类和方法。
 
 所有方法都能直接在本地运行并查看结果。
 
 需要注意的地方都用注释标明。
-
-# 配套说明与解析
-
-所有示例代码的详细说明部分都在博客里。
-
-<a href="https://blog.csdn.net/zongziczz/category_9784775.html">粽子的Java基础</a>
-
 
 # 命名规则
 
